@@ -77,9 +77,9 @@ Currently seeking opportunities in <b>Software Development</b>, <b>Python Develo
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GurucharanAkula&show_icons=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GurucharanAkula&show_icons=true&theme=tokyonight" height="180"/>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GurucharanAkula&layout=compact&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GurucharanAkula&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
